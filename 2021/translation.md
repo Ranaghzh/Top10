@@ -8,7 +8,7 @@
 | [A00_2021_How_to_use_the_OWASP_Top_10_as_a_standard.ar.md](/2021/docs/A00_2021_How_to_use_the_OWASP_Top_10_as_a_standard.ar.md)                       |              |        |            |                |
 | [A00_2021_Introduction.ar.md](/2021/docs/A00_2021_Introduction.ar.md)                                                                                 | مالك الدوسري |        | جاري العمل | 15/09/2021     |
 | [A00-about-owasp.ar.md](/2021/docs/A00-about-owasp.ar.md)                                                                                             |              |        |            |                |
-| [A01_2021-Broken_Access_Control.ar.md](/2021/docs/A01_2021-Broken_Access_Control.ar.md)                                                               |              |        |            |                |
+| [A01_2021-Broken_Access_Control.ar.md](/2021/docs/A01_2021-Broken_Access_Control.ar.md)                                                               |    |رنا الزهراني        | جاري العمل | 15/09/2021     |           |        |            |                |
 | [A02_2021-Cryptographic_Failures.ar.md](/2021/docs/A02_2021-Cryptographic_Failures.ar.md)                                                             |              |        |            |                |
 | [A03_2021-Injection.ar.md](/2021/docs/A03_2021-Injection.ar.md)                                                                                       |              |        |            |                |
 | [A04_2021-Insecure_Design.ar.md](/2021/docs/A04_2021-Insecure_Design.ar.md)                                                                           |              |        |            |                |
